@@ -1,0 +1,30 @@
+{
+	"name": "TwachaX",
+	"short_name": "TwachaX",
+	"description": "AI-powered skin analysis and teledermatology app",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#f3f0ff",
+	"theme_color": "#6366f1",
+	"orientation": "portrait",
+	"scope": "/",
+	"lang": "en",
+	"icons": [
+		{
+			"src": "/shield.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/shield.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "/shield.svg",
+			"sizes": "any",
+			"type": "image/svg+xml"
+		}
+	]
+}
+ 
