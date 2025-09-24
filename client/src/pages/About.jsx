@@ -282,6 +282,17 @@ const About = () => {
                                             Youtube
                                         </span>
                                     </a>
+                                    <a
+                                        href="http://threads.com/codingweapon"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="group"
+                                    >
+                                        <span className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-l from-black to-gray-300 text-white font-bold shadow-lg hover:from-gray-900 hover:to-gray-700 transition duration-300">
+                                            <img src="../../github.svg" alt="threads_icon" className='h-5 w-5' />
+                                            GitHub
+                                        </span>
+                                    </a>
                                 </div>
                             </div>
                         ))}
