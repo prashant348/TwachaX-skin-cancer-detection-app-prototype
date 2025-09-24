@@ -283,7 +283,7 @@ const About = () => {
                                         </span>
                                     </a>
                                     <a
-                                        href="http://threads.com/codingweapon"
+                                        href="https://github.com/prashant348"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="group"
